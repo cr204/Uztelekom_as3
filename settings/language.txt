@@ -1,0 +1,120 @@
+tf.UserName: Имя пользователя, Фойдаланувчи исми, Foydalanuvchi ismi
+tf.Password: Пароль, Пароль, Parol
+btn.OK: OK, OK, OK
+btn.YES: ДА, ХА, XA
+btn.NO: НЕТ, ЙУК, YO'Q
+btn.Login: Войти, Кириш, Kirish
+btn.Register: Регистрация, Руйхатдан утиш, Ro'yhatdan o'tish
+btn.Confirm: Подтвердить, Тасдиклаш, Tasdiqlash
+btn.Confirm2: Повторная отправка кода, Кодни кайта жунатиш, Kodni qayta jo'natish
+btn.Detailed: Подробно, Батафсил, Batafsil
+tf.Detailed: Подробная информация, Батафсил маълумот, Batafsil ma'lumot
+txt.EnterCode: Введите код, Кодни киритинг, Kodni kiriting
+mn1.tf1: Тарифы, Тарифлар, Tariflar
+mn1.tf2: Трафик, Трафик, Trafik
+mn1.tf3: Поступления денежных средств, Туловлар тушуми, To'lovlar tushumi
+mn1.tf4: История тарифов, Тарифлар тарихи, Tariflar tarixi
+mn.tf4: Статистика переговоров по MTR, MTR буйлаб сузл. статистикаси, MTR bo'ylab so'zl. statistikasi
+mn.tf5: Главная страница, Асосий сахифа, Asosiy sahifa
+mn.tf6: Дополнительный виды обслуживание, Кушимча хизматлар тури, Qo'shimcha hizmatlar turi
+mn.ref: Обновлять данные, Янгилаш, Yangilash
+mn.pas: Изменить пароль, Парольни узгартириш, Parolni o'zgartirish
+mn.lan: Язык, Илова тили, Ilova tili
+mn.hlp: Помощь, Ёрдам, Yordam
+mn.abt: О приложении, Лойиха хакида, Loyiha haqida
+mn.ext: Выйти, Чикиш, Chiqish
+pop.noConn: Нет соединения!, Алока йук!, Aloqa yo'q!
+pop.incCode: Неверный код, Нотугри код, Noto'g'ri kod
+pop.lang: Выберите язык, Тилни танланг, Tilni tanlang
+pop.currPass: Текуший пароль, Хозирги пароль, Hozirgi parol 
+pop.newPass: Новый пароль, Янги пароль, Yangi parol 
+pop.confPass: Подтвердить пароль, Парольни тасдиклаш, Parolni tasdiqlash
+pop.addTitle: Внимание!!!, Диккат!!!, Diqqat!!!
+pop.addText: Вы уверены что хотите включить/выключить?, Хизмат холатини узгартиришга ишончингиз комилми?, Xizmat xolatini o'zgartirishga ishonchingiz komilmi?
+pop.onlinePay: Онлайн платеж, Онлайн тулов, Onlayn to'lov 
+top.userInfo: Информация об абоненте, Абонент хакида маълумот, Abonent haqida ma'lumot
+sector: Сектор, Сектор, Sektor
+uzel: Узел, Узел, Uzel
+contactPhone: Контактный телефон, Мурожаат учун, Murojaat uchun
+platelshikMtr: Плательщик ММ, ММ Туловчиси, MM To'lovchisi
+kodeIdent: Идентификатор, Идентификатор, Identifikator
+debet: Дебет, Дебет, Debet
+dolg: Долг, Карз, Qarz
+kreditGTS: Кредит ГТС, Кредит ГТС, Kredit GTS
+address: Адрес, Манзил, Manzil
+contructId: Номер договора, Шартнома раками, Shartnoma raqami
+dateContract: Дата договора, Шартнома санаси, Shartnoma sanasi
+platelshikgts: Плательщик ГТС, ГТС Туловчиси, GTS To'lovchisi
+subscriber: Абонент, Абонент, Abonent
+outgoing: Исходяший, Чикувчи, Chiquvchi
+minute: мин, мин, daqiqa
+uzs: сум, сум, so'm
+mb: MБ, MБ, MB
+mbs: MБит/C, MБит/C, MBit/S
+info.login: Логин, Логин, Login
+info.tarifName: Тариф, Тариф, Tarif
+info.trafficBalance: Остаток трафика, Колган трафик, Qolgan trafik
+info.mpayment: Ежемесячный платеж, Ойлик тулов, Oyliq to'lov
+info.curBalance: Текущий баланс, Жорий баланс, Joriy balans
+info.limit: Лимит, Лимит, Limit
+info.traficWorld: Внешний трафик, Ташки трафик, Tashqi trafik
+info.traficTasX: Трафик Tas-X, Tas-X трафик, Tas-X trafik
+ser.tNumber: Телефон номер, Телефон раками, Telefon raqami
+ser.idService: Код услуги, Хизимат коди, Xizmat kodi
+ser.quantity: Количество, Микдори, Miqdori
+ser.dateFrom: Дата начала, Бош. санаси, Bosh. sanasi
+ser.dateDelete: Дата снятия, Дата снятия, O'chirish sanasi
+ser.name: Наименование услуги, Хизмат номи, Xizmat Nomi
+ser.state: Состояние, Холати, Holati
+ser.privil: Льгота, Имтиез, Imtiyoz
+spay.period: Период, Давр, Davr
+spay.idService: Код услуги, Код услуги, Xizmat kodi
+spay.name: Наименование, Номланиши, Nomlanishi
+spay.amount: Сумма, Сумма, Summa
+pay.billingCode: Код оплаты, Тулов коди, To'lov kodi
+pay.datePay: Дата оплаты, Дата оплаты, To'lov sanasi
+pay.tipPay: Тип оплат, Тулов тури, To'lov turi
+pay.idDoc: Номер документа, Хужжат раками, Hujjat raqami
+pay.dateOper: Дата операции, Операция санаси, Operatsia sanasi
+pay.amount: Сумма, Сумма, Summa
+pay.emp_name: Сотрудник принявший платеж, Пулни кабул килувчи, Pulni qabul qiluvchi
+pay.acc_id: Cчет, Хисоб раками, Hisob raqami
+pay.id: Идентификатор платежа, Тулов идентификатори, To'lov identifikatori
+pay.type_name: Тип оплаты, Тулов тури, To'lov turi
+stat.period: Период, Давр, Davr
+stat.phoneA: Тел.А, Тел.А, Tel.A
+stat.phoneBDot: Тел.Б, Тел.Б, Tel.B
+stat.tipRazg: Тип разг., Сузл. тури, So'zl. turi
+stat.dateCall: Дата разгавора, Сузлашув санаси, So'zlashuv sanasi
+stat.timeCall: Время разгавора, Сузлашув вакти, So'zlashuv vaqti
+stat.dlit: Длит.(мин), Вакти.(мин), Vaqti.(min)
+stat.amountCalc: Сумма нач., Бош. сумма, Bosh. summa
+stat.dateFromDot: Дата нач., Бош. санаси, Bosh. sanasi
+stat.privil: Льгота, Имтиез, Imtiyoz
+tarif.inet_traffic: Лимит внешнего трафика, Ташки трафик лимити, Tashqi trafik limiti
+tarif.t_ammount: Абонентская плата, Абонент тулови, Abonent to'lovi
+tarif.inet_speed: Скорость доступа в Интернет, Интернет тезлиги, Internet tezligi
+tarif.tasx_speed: Скорость доступа в Tas-IX, Tas-IX тезлиги, Tas-IX tezligi
+tarif.over_limit: Стоимость сверх лимита, Лимитдан ташкари 1 МБ нархи, Limitdan tashqari 1 MB narxi
+tarif.change_tariff: Изменить тариф, Тарифга утиш, Tarifga o'tish
+tarif.reserved: Бронирован, Брон килинди, Bron qilingan
+traff.vol_used_inet: Внешний трафик, Ташки трафик, Tashqi trafik
+traff.vol_cost_inet: Начисленная стоимость, Хисобланган нарх, Hisoblangan narx
+traff.ordered: сортировки, сортировки, sotirovki
+traff.vol_used_tasx: Трафик Tas-X, Tas-X трафик, Tas-X trafik
+traff.interval_time: Интервал времени, Вакт оралиги, Vaqt oralig'i
+traff.service_name: Название услуги, Хизимат номи, Xizmat nomi
+traff.day_date: День начисления, Хисобланган кун, Xosiblangan kun
+traff.mac_address: Мак адресс, Мак адресс, Mak adres
+tarifHistory.service_name: Название сервиса, Хизмат номи, Xizmat nomi
+tarifHistory.state_name: Статус, Статус, Status
+add.idService: Код услуги, Код услуги, Xizmat kodi
+add.name: Наименование услуги, Хизмат номи, Xizmat Nomi
+add.amount: Сумма, Сумма, Summa
+add.state: Состояние, Холати, Holati
+msg.wrongLogin: <b>Неверное имя пользователя или пароль</b>, <b>Логин ёки парол нотугри киритилган</b>, <b>Login yoki parol noto'g'ri kiritilgan</b>
+msg.wrongCode: <b>Неверный код</b>, <b>Код нотугри киритилган</b>, <b>Kod noto'g'ri kiritilgan</b>
+msg.noData: нет данных, маълумот йук, ma'lumot yoq
+msg.SignUp: У вас нет учетной записи? <b>Зарегистрироваться!</b>, Аккаунтингиз йукми? <b>Руйхатдан утинг!</b>, Akkauntingiz yo'qmi? <b>Ro'yhatdan o'ting!</b>
+msg.resend: Код повторно отправлено, Код кайтадан жунатилди, Kod qaytadan jo'natildi
+msg.wait: Пожалуйста подождите, Илтимос кутинг, Iltimos kuting
